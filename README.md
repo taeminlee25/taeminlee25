@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaeminlee25&count_bg=%2345DAEB&title_bg=%23000000&icon=baidu.svg&icon_color=%23FFFFFF&title=counts&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeminlee25&show_icons=true&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🙆‍♂️ Skills
