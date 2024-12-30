@@ -2,8 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaeminlee25&count_bg=%2345DAEB&title_bg=%23000000&icon=baidu.svg&icon_color=%23FFFFFF&title=counts&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🦾 Skills
-**🧑‍💻 Lang and Frameworks**
+### 🙆‍♂️Skills
+**🖥⌨🖱  Lang and Frameworks**
 
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) 
 
