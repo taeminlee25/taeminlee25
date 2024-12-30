@@ -5,9 +5,7 @@
 ### 🙆‍♂️ Skills
 **🖥⌨🖱  Lang and Frameworks**
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch3.svg">
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/R/r1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg"> <img src="">
 
 **🛠️ Infra and Tools**
 
