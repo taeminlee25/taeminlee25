@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=Hello&animation=fadeIn&fontColor=ffffff&fontSize=70" />
 </div>
     
-## Hi there 👋
+## 안녕하세요 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeminlee25&show_icons=true&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 
