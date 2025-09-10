@@ -180,7 +180,7 @@
 
 <div align="center">
     
-![Visitor Count](https://profile-counter.glitch.me/taeminlee25/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=taeminlee25&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 ⭐ **이 프로필이 도움이 되었다면 Star를 눌러주세요!** ⭐
 
